@@ -6,7 +6,7 @@ A production-ready REST API to compute Fibonacci numbers. Deploys with Docker + 
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/yourusername/fibonacci-api.git
+git clone https://github.com/dsnowflake/fibonacci-api.git
 cd fibonacci-api
 
 # 2. Run with Docker (recommended)
